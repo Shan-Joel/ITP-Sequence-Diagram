@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T20:18:00.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="ectp9WeRwjX9yFez1lCR" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-12T20:18:41.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="laSpyVRn9iXl9VfQ2GpH" version="14.9.8" type="github">
   <diagram id="4McjJYbZN8BIUwtswG4Y" name="Page-1">
     <mxGraphModel dx="2048" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -207,6 +207,12 @@
         </mxCell>
         <mxCell id="UF2nYOWphOUwnpRi0saQ-109" value="View teacher n" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-130" y="1550" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UF2nYOWphOUwnpRi0saQ-110" value="Hasini" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="2620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UF2nYOWphOUwnpRi0saQ-111" value="Yuchira" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="2980" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
